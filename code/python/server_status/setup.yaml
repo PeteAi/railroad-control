@@ -1,0 +1,4 @@
+services:
+  - moba_amqp_can_bus
+  - moba_node_server
+  - moba_java_server
